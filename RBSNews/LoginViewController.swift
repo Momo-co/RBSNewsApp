@@ -34,7 +34,6 @@ class LoginViewController: UIViewController {
            return
         }
         
-        // next screen
         navigateToHomeScreen()
     }
     
